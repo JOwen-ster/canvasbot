@@ -1,4 +1,7 @@
 # Discord.py-Bot-TEMPLATE
+
+# FULL STACK
+
 A repo containing a standard file structure template for a Discord bot!
 - Written using [**__Discord.py__**](https://github.com/Rapptz/discord.py)
   - Read the docs [**__here__**](https://discordpy.readthedocs.io/en/stable/)
@@ -141,6 +144,8 @@ Create a new file named `.env` (no name before the dot) and put the following in
 
 > [!NOTE]
 > To get a Canvas API token, login to Canvas, click `Account` -> `Settings` -> Scroll down to the bottom of the `Integrations` tab and then click `+ New Access Token`.
+
+[Canvas API Token Page](https://csufullerton.instructure.com/profile/settings)
 
 ```
 DISCORD_BOT_TOKEN = 'YOUR_BOT_TOKEN_GOES_HERE'
