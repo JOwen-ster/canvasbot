@@ -1,6 +1,6 @@
 # Discord.py-Bot-TEMPLATE
 
-# FULL STACK
+# FULL SCALABLE BOT TEMPALTE [HERE](https://github.com/JOwen-ster/Discord.py-Bot-TEMPLATE) CREATED BY (@JOwen-ster)[https://github.com/JOwen-ster]
 
 A repo containing a standard file structure template for a Discord bot!
 - Written using [**__Discord.py__**](https://github.com/Rapptz/discord.py)
